@@ -1,5 +1,8 @@
 # submission_form
 
+## Deployed Link
+https://form-validation-using-vue2.vercel.app/
+
 ## Project setup
 ```
 npm install
